@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/JalenPowell0502">Programmer</a>, <a href="">Information Technology Graduate</a>,</h1>
+<h1>Hi, I'm Jalen! <br/><a href="https://github.com/JalenPowell0502">Programmer</a>, <a href="">Information Technology Graduate</a>,</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
